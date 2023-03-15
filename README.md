@@ -8,4 +8,5 @@ GeoManager (個人情報保護のためソースコードは公開しません)
 使用技術　• Flutter • Net 6 • Microsoft Sql Server • Firebase • Google Maps API
 
 DEMO URL
-https://drive.google.com/file/d/1ZTQTwxKqOuketzsVYFOX79DnWFaqUTjJ/view?usp=share_link
+
+https://drive.google.com/drive/folders/1y1PL6o2S1nW-h_o_Gkh1aoQKrnvnGeyJ
