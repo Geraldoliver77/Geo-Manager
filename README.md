@@ -9,4 +9,4 @@ GeoManager (個人情報保護のためソースコードは公開しません)
 
 DEMO URL
 
-https://drive.google.com/drive/folders/1y1PL6o2S1nW-h_o_Gkh1aoQKrnvnGeyJ
+https://drive.google.com/file/d/1o_KDpmmKvnyW9a4c8vJEVA-J0uO8_WEG/view?usp=share_link
